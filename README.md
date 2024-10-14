@@ -2,14 +2,14 @@
 
 https://github.com/ucsb-cs156-f24/jpa02-divyanipunj
 
-Repo: https://ucsb-cs156-f24/STARTER-jpa02]
+Repo: https://github.com/ucsb-cs156-f24/STARTER-jpa02
 
 Deployed at: https://jpa02-divyanipunj.dokku-08.cs.ucsb.edu
 
 
 # About this repo
 
-This is a minimal "Hello World" type webapp built with Spring Boot.
+This is a webapp that displays the developer's information and the the built with Spring Boot.
 
 # What can you do with this code?
 
