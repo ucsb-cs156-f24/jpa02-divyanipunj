@@ -9,7 +9,7 @@ Deployed at: https://jpa02-divyanipunj.dokku-08.cs.ucsb.edu
 
 # About this repo
 
-This is a webapp that displays the developer's information and the the built with Spring Boot.
+This is a webapp that displays the developer's information and their group built with Spring Boot.
 
 # What can you do with this code?
 
